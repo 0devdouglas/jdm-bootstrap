@@ -1,0 +1,34 @@
+body {
+    background: #e65050;
+}
+
+#cabecalho {
+    padding-top: 2%;
+}
+
+#cabecalho img {
+    max-width: 15%;
+    height: auto;
+}
+
+#cabecalho h1 {
+    color: #fff;
+    margin-left: 1rem;
+}
+
+.carousel {
+    margin-top: 3rem;
+}
+
+.carousel-item img {
+    max-height: 100%;
+}
+
+h2 {
+    padding: 5%;
+    color: #fff;
+}
+
+footer {
+    padding: 32px;
+}
